@@ -1,0 +1,6 @@
+{
+  "noImplicitAny": false,
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true
+  }
+}
